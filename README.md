@@ -9,7 +9,7 @@ Here, you will be able to follow my progress. Shall we collaborate? 💻🖥️�
 
 
   
-👀 I am already familiarizing myself with:
+👀 I am already familiarizing myself with: HTML CSS GIT
 
 <img src="https://i0.wp.com/www.onlinecultus.com/wp-content/uploads/2022/04/109275-html-css-bootstrap-3-project-a-static-website.jpg?resize=480%2C270&ssl=1" style="width:5rem;height:3rem;border-radius:10px;"/> <img src="https://www.stickersdevs.com.br/wp-content/uploads/2015/03/git-stickers-adesivo-600x600.png" style="width:3rem;height:3rem;border-radius:10px;" />
 
