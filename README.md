@@ -3,6 +3,7 @@ Here, you will be able to follow my progress. Shall we collaborate? 💻🖥️�
 
   
 🌱 Currently, I am learning: JavaScript / React JS
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png" style="width:3rem;height:3rem;border-radius:10px;" /> <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x2048-o8k3ymqa.png" style="width:3rem;height:3rem;border-radius:10px;" />
 
 
