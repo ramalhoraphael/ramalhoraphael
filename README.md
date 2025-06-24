@@ -1,5 +1,5 @@
 ## 👋 _Hi, how's it going? Welcome!_ I'm Raphael Ramalho 👨‍💻
-Here, you will be able to follow my progress. Shall we collaborate? 💻🖥️📱
+Here, you will be able to follow my progress. 💻🖥️📱
 
   
 🌱 Currently, I am learning: JavaScript / React JS
