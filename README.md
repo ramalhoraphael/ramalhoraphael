@@ -14,6 +14,8 @@
 - 🧪 **Vitest** — Testes automáticos  
 - 🔍 **ESLint** — Análise sintaxe
 - 🎨 **Prettier** — Formatação automática 
+- 🧠 **VS Code** — Editor de código
+
 
 ---
 
