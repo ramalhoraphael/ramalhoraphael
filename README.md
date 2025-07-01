@@ -2,7 +2,7 @@
 
 🎯 Em transição para a área de tecnologia | Estudante de ADS  
 💻 Foco: Desenvolvimento Web (JavaScript, React)  
-📚 Estudo na [Newton Paiva](https://newtonpaiva.edu.br) e cursos na [Alura](https://alura.com.br)
+📚 Estudo na [Newton Paiva](https://newtonpaiva.br/) e cursos na [Alura](https://alura.com.br)
 
 ### Tecnologias e Ferramentas
 
