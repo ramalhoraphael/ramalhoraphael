@@ -1,6 +1,6 @@
 ## 👋 Olá, sou Raphael Ramalho 👨‍💻
 
-🎯 Em transição para a área de tecnologia | Estudante de ADS  
+🎯 Em transição para a área de tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
 💻 Foco: Desenvolvimento Web (JavaScript, React)  
 📚 Estudo na [Newton Paiva](https://newtonpaiva.br/) e cursos na [Alura](https://alura.com.br)
 
