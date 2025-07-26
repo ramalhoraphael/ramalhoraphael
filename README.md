@@ -1,7 +1,7 @@
 ## 👋 Olá, sou Raphael Ramalho 👨‍💻
 
 🎯 Em transição para a área de tecnologia | Estudante de Análise e Desenvolvimento de Sistemas
-💻 Foco: Desenvolvimento Web (JavaScript, React)  
+💻 Foco: Desenvolvimento Web (Next, TypeScript, MongoDB, Gitflow, Testes e Responsividade)  
 📚 Estudo na [Newton Paiva](https://newtonpaiva.br/) e cursos na [Alura](https://alura.com.br)
 
 ### Tecnologias e Ferramentas
